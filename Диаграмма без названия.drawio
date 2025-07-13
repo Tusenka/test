@@ -243,12 +243,11 @@
         <mxCell id="mPrxv7ASUc2alYUoy-BK-21" value="Node collect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="1150" width="160" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-22" target="mPrxv7ASUc2alYUoy-BK-5">
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-22" target="mPrxv7ASUc2alYUoy-BK-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="1245" />
               <mxPoint x="600" y="1245" />
-              <mxPoint x="600" y="1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -296,8 +295,17 @@
         <mxCell id="mPrxv7ASUc2alYUoy-BK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.376;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-39" target="mPrxv7ASUc2alYUoy-BK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.427;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-38" target="mPrxv7ASUc2alYUoy-BK-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-38" target="mPrxv7ASUc2alYUoy-BK-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="1380" as="sourcePoint" />
+            <mxPoint x="207.58999999999992" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="1430" />
+              <mxPoint x="70" y="1360" />
+              <mxPoint x="153" y="1360" />
+              <mxPoint x="153" y="1300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-45" value="collect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1220" width="140" height="30" as="geometry" />
