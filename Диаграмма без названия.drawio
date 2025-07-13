@@ -208,7 +208,7 @@
           <mxGeometry x="70" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-11" value="from_parent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-12" value="Node&lt;div&gt;interesting part here is self.stash&lt;/div&gt;&lt;div&gt;from_parent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="1100" width="170" height="140" as="geometry" />
