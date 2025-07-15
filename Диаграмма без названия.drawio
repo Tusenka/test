@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Страница — 1" id="jSyFsw4GTTirw9yuToVY">
-    <mxGraphModel dx="2253" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-5" target="mPrxv7ASUc2alYUoy-BK-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-5" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;pytest_collect_directory&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#2911FF;" vertex="1" parent="1">
           <mxGeometry x="450" y="1350" width="220" height="60" as="geometry" />
         </mxCell>
@@ -304,31 +307,48 @@
             <mxPoint x="161.22000000000003" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-51" target="mPrxv7ASUc2alYUoy-BK-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1125" y="1620" />
-              <mxPoint x="1120" y="1620" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-51" target="mPrxv7ASUc2alYUoy-BK-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-51" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;pytest_pycollect_makemodule&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-51" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;pytest_pycollect_makemodule&lt;/pre&gt;&lt;/div&gt;" style="shape=process;html=1;backgroundOutline=1;strokeColor=#2911FF;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1350" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.316;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-45" target="mPrxv7ASUc2alYUoy-BK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-60" value="FixtureManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="1630" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-61" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;_register_setup_module_fixture&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;check_setup teardown&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1440" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPrxv7ASUc2alYUoy-BK-62" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;_register_setup_function_fixture&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;check setup teardown&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459.5" y="1520" width="340.5" height="50" as="geometry" />
+          <mxGeometry x="1055" y="1540" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-63" value="_fixturemanager.parsefactories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1670" width="330" height="50" as="geometry" />
+          <mxGeometry x="970" y="1630" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-69" target="mPrxv7ASUc2alYUoy-BK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-69" value="setup/teardown fixture setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-74" target="mPrxv7ASUc2alYUoy-BK-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1670" />
+              <mxPoint x="560" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-74" value="ParseFactoreis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1530" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-60" target="mPrxv7ASUc2alYUoy-BK-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPrxv7ASUc2alYUoy-BK-79" value="Fixture Function Definition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1704" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
