@@ -382,6 +382,12 @@
         <mxCell id="bGKXxeF9gFpW9dzdEJ-n-17" value="fixture plugin register fixture&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1710" width="330" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLiUTfulIyoGJ4hE36hq-1" target="WLiUTfulIyoGJ4hE36hq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLiUTfulIyoGJ4hE36hq-1" target="WLiUTfulIyoGJ4hE36hq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WLiUTfulIyoGJ4hE36hq-1" value="pytest_collection_modifyitems" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#2911FF;" vertex="1" parent="1">
           <mxGeometry x="310" y="1710" width="300" height="60" as="geometry" />
         </mxCell>
@@ -390,6 +396,18 @@
             <mxPoint x="615" y="1220" as="sourcePoint" />
             <mxPoint x="450" y="1710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-3" value="fixture&lt;div&gt;resorder_itens&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1820" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-4" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1545" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1820" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
