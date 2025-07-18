@@ -232,6 +232,9 @@
         <mxCell id="mPrxv7ASUc2alYUoy-BK-6" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;pytest_collect_file&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#2911FF;" parent="1" vertex="1">
           <mxGeometry x="750" y="1350" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPrxv7ASUc2alYUoy-BK-12" target="WLiUTfulIyoGJ4hE36hq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPrxv7ASUc2alYUoy-BK-12" value="Node&lt;div&gt;interesting part here is self.stash&lt;/div&gt;&lt;div&gt;from_parent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="1230" width="345" height="140" as="geometry" />
         </mxCell>
@@ -401,12 +404,12 @@
           <mxGeometry x="270" y="1820" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WLiUTfulIyoGJ4hE36hq-4" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1545" width="170" height="85" as="geometry" />
+          <mxGeometry x="65" y="1530" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="WLiUTfulIyoGJ4hE36hq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WLiUTfulIyoGJ4hE36hq-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLiUTfulIyoGJ4hE36hq-7" value="cache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1820" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
