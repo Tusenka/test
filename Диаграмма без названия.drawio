@@ -17,7 +17,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDl_KQq_sCVQ8jv6WgkQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-_P5epZuQx1z1v2MH_0-3" target="C-_P5epZuQx1z1v2MH_0-12">
+        <mxCell id="BDl_KQq_sCVQ8jv6WgkQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C-_P5epZuQx1z1v2MH_0-3" target="C-_P5epZuQx1z1v2MH_0-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-_P5epZuQx1z1v2MH_0-3" value="wrap_session&lt;div&gt;create_session&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -405,6 +405,12 @@
         </mxCell>
         <mxCell id="WLiUTfulIyoGJ4hE36hq-7" value="cache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1820" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNrG8U7f_cGnFwEs31oa-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;pytest_pycollect_makeitem&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;generate parametrized functions&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1300" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UNrG8U7f_cGnFwEs31oa-3" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
