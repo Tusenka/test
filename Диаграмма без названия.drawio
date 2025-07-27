@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Страница — 1" id="jSyFsw4GTTirw9yuToVY">
     <mxGraphModel dx="2253" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bGKXxeF9gFpW9dzdEJ-n-2" value="&lt;div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(148, 85, 141);&quot;&gt;self&lt;/span&gt;._arg2fixturedefs.setdefault(&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;name&lt;/span&gt;, []) &lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;with saving order&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="1500" width="340" height="130" as="geometry" />
+          <mxGeometry x="1320" y="1660" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bGKXxeF9gFpW9dzdEJ-n-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bGKXxeF9gFpW9dzdEJ-n-9" target="bGKXxeF9gFpW9dzdEJ-n-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -406,11 +406,17 @@
         <mxCell id="WLiUTfulIyoGJ4hE36hq-7" value="cache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1820" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UNrG8U7f_cGnFwEs31oa-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;pytest_pycollect_makeitem&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;generate parametrized functions&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="J_4ulQVOSJdRkUz9_d2E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNrG8U7f_cGnFwEs31oa-1" target="J_4ulQVOSJdRkUz9_d2E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNrG8U7f_cGnFwEs31oa-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;pytest_pycollect_makeitem&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;generate parametrized functions&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1300" width="340" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UNrG8U7f_cGnFwEs31oa-3" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UNrG8U7f_cGnFwEs31oa-3" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_4ulQVOSJdRkUz9_d2E-1" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,0pt;&quot;&gt;_genfunctions&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1455" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
